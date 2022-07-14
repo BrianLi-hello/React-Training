@@ -1,3 +1,8 @@
-# React-Admin-Tutorial
+## React Training
+- ### Based off Stephen Grider's Modern React with Redux
 
-## React-Admin Tutorial Documentation: [Here](https://marmelab.com/react-admin/Tutorial.html)
+<br>
+
+## React-Admin-Tutorial
+
+### React-Admin Tutorial Documentation: [Here](https://marmelab.com/react-admin/Tutorial.html)
